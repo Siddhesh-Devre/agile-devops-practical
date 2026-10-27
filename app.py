@@ -9,3 +9,4 @@ if __name__ == "__main__":
     greet()
     result = add_numbers(10, 20)
     print("Sum:", result)
+print("Jira and GitHub integration task: SCRUM-7")
